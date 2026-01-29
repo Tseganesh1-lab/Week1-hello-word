@@ -1,2 +1,7 @@
 # Week1-hello-word
-Assignment 2
+Tseganesh
+"""
+Tseganesh Chala
+CMSC 111
+Spring 2026
+Assingment 2
